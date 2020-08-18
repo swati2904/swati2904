@@ -1,6 +1,6 @@
 ## Hello, I'm Swati Saxena 👋
 
-* :notebook: SnapBizz SWE Intern, AUGUST 2020
+* :briefcase: SnapBizz SWE Intern, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020                                                                                
 * :computer: DSAlgo, Java, Web
 * :email: Reach me: <a href="swati.lpu17@gmail.com">swati.lpu17@gmail.com</a>
