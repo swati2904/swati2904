@@ -1,6 +1,6 @@
 ## Hello, I'm Swati Saxena 👋
 
-* :notebook: FacePrep Fullstack Developer Trainee, summer 2020
+* :notebook: SnapBizz SWE Intern, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020
 * :mag: Looking for SDE profile                                                                                 
 * :computer: DSAlgo, Web
