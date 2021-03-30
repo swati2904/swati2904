@@ -1,5 +1,7 @@
 ## Hello, I'm Swati Saxena 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati2904" alt="swati2904" /> </p>
+
 * :briefcase: SnapBizz SWE, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020                                                                                
 * :computer: DSAlgo, JavaScript, Vue.js, React, Node.js
