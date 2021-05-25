@@ -6,8 +6,6 @@
 * :mortar_board: Computer Science, LPU 2020                                                                                
 * :computer: DSAlgo, JavaScript, Vue.js, React, Node.js
 * :email: Reach me: <a href="swati.lpu17@gmail.com">swati.lpu17@gmail.com</a>
-* :mailbox_with_no_mail: LinkedIn:  <a href="https://www.linkedin.com/in/swati17/">https://www.linkedin.com/in/swati17/</a>
-
 
 <img  src="https://github-readme-stats.vercel.app/api?username=swati2904&show_icons=true" alt="swati2904" />
 
