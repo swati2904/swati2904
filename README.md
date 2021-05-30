@@ -1,4 +1,4 @@
-## Hello, I'm Swati Saxena 
+## Hello, I'm Swati Saxena 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati2904" alt="swati2904" /> </p>
 
