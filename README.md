@@ -1,6 +1,6 @@
-## Hello, I'm Swati Saxena 👋
+## Hello, I'm Swati Saxena <img src="https://github.com/swati2904/swati2904/blob/master/assests/Hi.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati2904" alt="swati2904" /> </p>
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=swati2904.swati2904" alt="swati2904" /> </p>
 
 * :briefcase: SnapBizz SWE, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020                                                                                
