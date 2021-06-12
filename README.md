@@ -4,7 +4,7 @@
 
 * :briefcase: SnapBizz SWE, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020                                                                                
-* :computer: DSAlgo, JavaScript, Vue.js, React, Node.js
+* :computer: DSAlgo, JavaScript, Vue.js, React, Node.js, MongoDB
 * :email: Reach me: <a href="swati.lpu17@gmail.com">swati.lpu17@gmail.com</a>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=swati2904&show_icons=true" alt="swati2904" />
