@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=swati2904.swati2904" alt="swati2904" /> </p>
 
+
+* 🔭 I’m currently working on [Blogconnector.com](http://blogconnector.herokuapp.com/)
 * :briefcase: SnapBizz SWE, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020                                                                                
 * :computer: JavaScript, Vue.js, React, Node.js, MongoDB
