@@ -1,7 +1,8 @@
-## Hello, I'm Swati Saxena <img src="https://github.com/swati2904/swati2904/blob/master/assests/Hi.gif" width="30px">
+
+<h1 align="center"> Hello, I'm Swati Saxena <img src="https://github.com/swati2904/swati2904/blob/master/assests/Hi.gif" width="30px"> </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=swati2904.swati2904" alt="swati2904" /> </p>
-
 
 * 🔭 I’m currently working on [Blogconnector.com](http://blogconnector.herokuapp.com/)
 * :briefcase: SnapBizz SWE, AUGUST 2020
