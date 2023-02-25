@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=swati2904.swati2904" alt="swati2904" /> </p>
 
-* 🔭 I’m currently working on [Blogconnector.com](http://blogconnector.herokuapp.com/)
+* 🔭 [Blogconnector.com](http://blogconnector.herokuapp.com/)
 * :briefcase: SnapBizz SWE, AUGUST 2020
 * :mortar_board: Computer Science, LPU 2020                                                                                
-* :computer: JavaScript, Vue.js, React, Node.js, MongoDB
+* :computer: JavaScript, React, Vue, Node.js, MongoDB
 * :email: Reach me: <a href="swati.lpu17@gmail.com">swati.lpu17@gmail.com</a>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=swati2904&show_icons=true" alt="swati2904" />
