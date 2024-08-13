@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati2904&label=Profile%20views&color=0e75b6&style=flat" alt="swati2904" /> </p>
 
 - 🔭 I'm currently working on [Blogconnector.com](http://blogconnector.herokuapp.com/)
-- 🌱 I'm currently learning **Unity, Azure, GraphQL etc**                                                                                
+- 🌱 I'm currently learning **Golang, Gin, AWS etc**                                                                                
 - 💬 Ask me about **Javascript, ReactJS, VueJS, NodeJS**
 - 📫 Reach me: <a href="swati.lpu17@gmail.com">swati.lpu17@gmail.com</a>
 - Portfolio: https://swatiprofile.vercel.app/
