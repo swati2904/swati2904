@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati2904&label=Profile%20views&color=0e75b6&style=flat" alt="swati2904" /> </p>
 
-- 🔭 I'm currently working on Sync_Code_Studio
+- 🔭 I'm currently working on [Safe Shortener](https://safe-shortner.vercel.app/)
 - 🌱 I'm currently learning **Golang, Gin, AWS etc**                                                                                
-- 💬 Ask me about **Javascript, ReactJS, VueJS, NodeJS**
+- 💬 Ask me about **Javascript, ReactJS, VueJS, NodeJS, NextJS**
 - 📫 Reach me: <a href="swati.lpu17@gmail.com">swati.calstate@gmail.com</a>
 - Portfolio: https://swatiprofile.vercel.app/
   
